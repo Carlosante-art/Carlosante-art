@@ -1,6 +1,6 @@
 Carl Karjalainen Joels
 
-I build AI systems that model a person, not an average, and put safety and provenance first. Background in competitive sport: hockey, football and bandy.
+I build AI systems that model a person, not an average, and put safety and provenance first. Background in sport
 
 	
 Selvra	A protocol for structured personal representation, so you never have to start over with an AI. Event-sourced, moderator-gated writes, provenance on every claim, MCP server with OAuth. Python/FastAPI + Next.js.
